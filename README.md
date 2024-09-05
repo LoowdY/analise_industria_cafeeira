@@ -13,23 +13,6 @@ Este repositório contém uma análise detalhada da indústria cafeleira, explor
 
 O projeto utiliza Jupyter Notebook para a análise e visualização dos dados, empregando bibliotecas como pandas para manipulação de dados e matplotlib e seaborn para visualização gráfica.
 
-## Instalação e Execução
-
-Para explorar as análises, siga os passos abaixo:
-
-1. **Clone o repositório**:
-   ```
-   git clone https://github.com/LoowdY/analise_industria_cafeeira
-   ```
-2. **Instale as dependências necessárias** (recomendado usar um ambiente virtual):
-   ```
-   pip install -r requirements.txt
-   ```
-3. **Abra os notebooks Jupyter**:
-   ```
-   jupyter notebook
-   ```
-
 ## Contribuições
 
 Contribuições para o projeto são bem-vindas! Se você tem sugestões de novas análises, melhorias nos métodos existentes ou correções, sinta-se à vontade para abrir um issue ou enviar um pull request.
