@@ -1,5 +1,5 @@
 
-# Análise da Indústria Cafeleira
+# Análise da Indústria Cafeeeira
 
 Este repositório contém uma análise detalhada da indústria cafeleira, explorando dados desde a produção até o consumo global de café. As análises fornecem insights valiosos sobre as tendências de mercado, comportamento dos preços, e os principais fatores que afetam a indústria globalmente.
 
